@@ -1,4 +1,0 @@
-\begin{MintedVerbatim}[commandchars=\\\{\}]
-    \PYG{n}{N} \PYG{o}{=} \PYG{n+nb}{int}\PYG{p}{(}\PYG{n+nb}{input}\PYG{p}{(}\PYG{l+s+s2}{\PYGZdq{}Entrez le nombre d\PYGZsq{}élèves dans la classe\PYGZdq{}}\PYG{p}{))}
-    \PYG{k}{assert} \PYG{n}{N} \PYG{o}{\PYGZgt{}} \PYG{l+m+mi}{0}
-\end{MintedVerbatim}
